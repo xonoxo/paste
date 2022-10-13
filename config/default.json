@@ -1,6 +1,6 @@
 {
   "name": "Paste",
-  "host": "0.0.0.0",
+  "host": "127.0.0.1",
   "port": 80,
   "db": "mongodb+srv://bduser:fyzYM2qOEdsBt5iQ@cluster0.pqchxkv.mongodb.net/?retryWrites=true&w=majority",
   "keys": [
