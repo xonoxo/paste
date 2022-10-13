@@ -2,9 +2,9 @@
   "name": "Paste",
   "host": "0.0.0.0",
   "port": 80,
-  "db": "mongodb://localhost/paste",
+  "db": "mongodb+srv://bduser:fyzYM2qOEdsBt5iQ@cluster0.pqchxkv.mongodb.net/?retryWrites=true&w=majority",
   "keys": [
-    "random key here"
+    "rvvv"
   ],
   "prettyHtml": true,
   "cacheAge": 2592000,
