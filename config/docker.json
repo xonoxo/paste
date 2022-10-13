@@ -1,3 +1,3 @@
 {
-  "db": "mongodb://db/paste"
+  "db": "mongodb+srv://bduser:fyzYM2qOEdsBt5iQ@cluster0.pqchxkv.mongodb.net/?retryWrites=true&w=majority"
 }
